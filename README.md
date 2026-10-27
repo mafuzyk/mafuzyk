@@ -2,7 +2,7 @@
 
 I build things to find out how they work. Often a terminal tool in Rust, sometimes a game in Godot, usually because some existing tool annoyed me first.
 
-Self-taught. I write most of this from Brazil, between school and a technical course that has nothing to do with any of it.
+I'm 17, self-taught, and in my third year of a technical high school in Environmental Management, which has nothing to do with any of this. I write most of it from Brazil, between classes.
 
 ## what I'm building
 
