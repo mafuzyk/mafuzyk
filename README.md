@@ -18,6 +18,10 @@ The rest stays private for now: a Discord client in C++/Qt, a Rust shell, a harn
 
 Rust, C++, TypeScript, GDScript, QML, Lua, plus Python and Shell when the problem is small.
 
+## on agents
+
+I use coding agents openly, and I say so. Most of what is here was built with them in the loop: I set the direction, review the diffs and debug what breaks, they do the typing. Pretending otherwise would be dishonest about how this code got written, and about how software gets written now.
+
 ## how I work
 
 Ugly version first, then delete half of it. I would rather ship something that runs on the machine in front of me than design for a use case I don't have.
