@@ -10,13 +10,13 @@ I'm 17, self-taught, and in my third year of a technical high school in Environm
 
 **[halofetch](https://github.com/mafuzyk/halofetch)** — a system fetch tool with centered ASCII art and powerline panels, pure Rust. GPL-3.0, because I want people to actually use it.
 
-**[zzz-rice](https://github.com/mafuzyk/zzz-rice)** — Hyprland rice with a ZZZ live wallpaper. Personal config, kept public because ricing is a sport.
+**[sharky](https://github.com/mafuzyk/sharky-shell)** — a Unix-first interactive shell in Ruby, built to learn how a shell actually works. Own lexer, parser, executor and job control, no third-party gems, 294 tests. v0.1 is out; v1.0 is the daily-driver gate.
 
-The rest stays private for now: a Discord client in C++/Qt, a Rust shell, a harness that drives coding agents. They go public when they stop embarrassing me.
+The rest stays private for now: a Discord client in C++/Qt and a harness that drives coding agents. They go public when they stop embarrassing me.
 
 ## stack
 
-Rust, C++, TypeScript, GDScript, QML, Lua, plus Python and Shell when the problem is small.
+Rust, C++, TypeScript, GDScript, Ruby, QML, Lua, plus Python and Shell when the problem is small.
 
 ## on agents
 
