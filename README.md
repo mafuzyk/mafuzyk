@@ -12,6 +12,8 @@ I'm 17, self-taught, and in my third year of a technical high school in Environm
 
 **[sharky](https://github.com/mafuzyk/sharky-shell)** — a Unix-first interactive shell in Ruby, built to learn how a shell actually works. Own lexer, parser, executor and job control, no third-party gems, 294 tests. v0.1 is out; v1.0 is the daily-driver gate.
 
+**[Escargot Msn Unix](https://github.com/mafuzyk/escargot-native)** — a Unix non official fan build of the Escargot Msn in rust.
+
 The rest stays private for now: a Discord client in C++/Qt and a harness that drives coding agents. They go public when they stop embarrassing me.
 
 ## stack
