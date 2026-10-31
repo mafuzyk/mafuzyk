@@ -6,13 +6,22 @@ I'm 17, self-taught, and in my third year of a technical high school in Environm
 
 ## what I'm building
 
-**[Kernel Panic](https://github.com/mafuzyk/kernel-panic)** — a neon arena shooter. I started it on an Android phone with Godot and Termux: no PC, no keyboard. 4.0 is out.
+### [Kernel Panic](https://github.com/mafuzyk/kernel-panic) — a neon arena shooter
+Started on an Android phone with Godot and Termux: no PC, no keyboard, no excuse. 4.0 is out.
 
-**[halofetch](https://github.com/mafuzyk/halofetch)** — a system fetch tool with centered ASCII art and powerline panels, pure Rust. GPL-3.0, because I want people to actually use it.
+`Godot 4` · `GDScript` · `desktop` · `v4.0.0`
 
-**[sharky](https://github.com/mafuzyk/sharky-shell)** — a Unix-first interactive shell in Ruby, built to learn how a shell actually works. Own lexer, parser, executor and job control, no third-party gems, 294 tests. v0.1 is out; v1.0 is the daily-driver gate.
+### [Escargot Native](https://github.com/mafuzyk/escargot-native) — MSN Messenger 7.5, on Linux
+An unofficial native client for the Escargot network, rebuilt to feel identical to the Windows app instead of running it through Wine.
 
-**[Escargot Msn Unix](https://github.com/mafuzyk/escargot-native)** — a Unix non official fan build of the Escargot Msn in rust.
+`Rust` · `GPUI` · `wgpu` · `Linux` · `in progress`
+
+### also building
+
+- **[sharky](https://github.com/mafuzyk/sharky-shell)** — an interactive shell in Ruby with its own lexer, parser, executor and job control. No third-party gems.
+  `Ruby` · `Linux` · `v1.0.1`
+- **[halofetch](https://github.com/mafuzyk/halofetch)** — a system fetch tool with centered ASCII art and powerline panels. GPL-3.0 keeps the code free: use it, change it, ship it, just don't close it.
+  `Rust` · `Linux` · `v3.0.0`
 
 The rest stays private for now: a Discord client in C++/Qt and a harness that drives coding agents. They go public when they stop embarrassing me.
 
