@@ -9,12 +9,12 @@ I'm 17, self-taught, and in my third year of a technical high school in Environm
 ### [Koral](https://github.com/mafuzyk/koral) — a terminal built around command units
 Native tabs, no tmux. Every command becomes an addressable unit: fold it, see its status and duration, copy its output, jump back to it. Understands sharky natively.
 
-`Rust` · `GPL-3.0` · `Linux · Wayland` · `v1.0.1`
+`Rust` · `GPL-3.0` · `Linux · Wayland` · `v1.0.3`
 
 ### [sharky](https://github.com/mafuzyk/sharky-shell) — an interactive shell in Rust
 Own parser, executor, line editor and job control; it never wraps bash. One static binary, ~0.5 ms startup, Bash-like subset with pipes, heredocs, `[[ ]]` and functions.
 
-`Rust` · `GPL-3.0` · `Linux` · `v3.5.2` · `AUR`
+`Rust` · `GPL-3.0` · `Linux` · `v3.5.3` · `AUR`
 
 ### [Kernel Panic](https://github.com/mafuzyk/kernel-panic) — a neon arena shooter
 Started on an Android phone with Godot and Termux: no PC, no keyboard, no excuse. 4.0 is out.
@@ -29,7 +29,7 @@ An unofficial native client for the Escargot network, rebuilt to feel identical 
 ### also building
 
 - **[halofetch](https://github.com/mafuzyk/halofetch)** — a system fetch tool with centered ASCII art and powerline panels. GPL-3.0 keeps the code free: use it, change it, ship it, just don't close it.
-  `Rust` · `Linux` · `v3.0.0`
+  `Rust` · `Linux` · `v3.2.0`
 
 The rest stays private for now: a Discord client in C++/Qt and a harness that drives coding agents. They go public when they stop embarrassing me.
 
