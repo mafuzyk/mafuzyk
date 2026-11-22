@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/fuyu-mark-inverse.svg" />
-  <img src="assets/fuyu-mark.svg" width="140" alt="fuyu halftone winter crystal mark" />
+  <img src="assets/fuyu-mark.svg" width="205" alt="mafu halftone calligraphic snail signature" />
 </picture>
 
 <h1>mafu</h1>
