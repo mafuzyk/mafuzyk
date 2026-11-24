@@ -38,7 +38,7 @@ I build things to find out how they work — usually a terminal tool in Rust, a 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mafuzyk/sharky-shell">sharky</a></h3>
       <p><strong>Unix-first interactive shell and agent runtime</strong> in pure Rust — own parser, executor, line editor, and job control (zero bash wrapper), static musl binary, ~2 ms cold startup, native Code Mode, and 10 MCP tools.</p>
-      <sub><code>Rust</code> · <code>GPL-3.0</code> · <code>Linux</code> · <code>v4.0.0-alpha.2</code> · <code>AUR</code> · <code>Nix</code></sub>
+      <sub><code>Rust</code> · <code>GPL-3.0</code> · <code>Linux</code> · <code>v0.1.0-alpha.1</code> · <code>AUR</code> · <code>Nix</code></sub>
     </td>
   </tr>
   <tr>
