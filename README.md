@@ -48,7 +48,7 @@ I build things to find out how they work — usually a terminal tool in Rust, a 
       <sub><code>Rust</code> · <code>wgpu</code> · <code>GPL-3.0</code> · <code>Wayland</code> · <code>v1.2.1</code> · <code>AUR</code> · <code>Nix</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mafuzyk/kernel-panic">Kernel Panic</a></h3>
+      <h3><a href=>Kernel Panic</a></h3>
       <p><strong>Fast neon arena shooter</strong> that started on an Android phone with Godot and Termux: no PC, no keyboard, no excuse. Play or follow updates at <a href="https://kernelpanic-br.vercel.app">kernelpanic-br.vercel.app</a>.</p>
       <sub><code>Godot 4</code> · <code>GDScript</code> · <code>Desktop</code> · <code>v4.0.0</code></sub>
     </td>
