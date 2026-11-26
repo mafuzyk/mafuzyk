@@ -50,7 +50,7 @@ I build things to find out how they work — usually a terminal tool in Rust, a 
     <td width="50%" valign="top">
       <h3><a >Kernel Panic</a></h3>
       <p><strong>Fast neon arena shooter</strong> that started on an Android phone with Godot and Termux: no PC, no keyboard, no excuse. Play or follow updates at <a href="https://kernelpanic-br.vercel.app">kernelpanic-br.vercel.app</a>.</p>
-      <sub><code>Godot 4</code> · <code>GDScript</code> · <code>Desktop</code> · <code>v4.0.0</code></sub>
+      <sub><code>Godot 4</code> · <code>GDScript</code> · <code>Desktop</code> · <code>v0.1.0</code></sub> · <code>Mobile</code>
     </td>
   </tr>
 </table>
